@@ -163,8 +163,8 @@ body {
 
     .elastic {
         /* position: relative; */
-        width: 600px;
-        height: 1000px;
+        width: 400px;
+        height: 400px;
         display: flex;
         justify-content: center;
         align-items: flex-end;
@@ -176,7 +176,7 @@ body {
     }
 
     .elastic svg path {
-        width: 1000%;
+        width: 100%;
         stroke-width: 10;
         stroke-linecap: round;
         d: path("M 10 80 Q 190 80 390 80");
